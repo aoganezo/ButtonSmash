@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">ButtonSmash</string>
+    <string name="app_name">Button Smash</string>
+    <string name="time_keeper">10</string>
+    <string name="score_keeper">0</string>
 </resources>
